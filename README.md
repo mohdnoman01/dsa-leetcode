@@ -11,6 +11,7 @@ Daily LeetCode solutions in Kotlin with clean code, optimized approaches, and co
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,4 +28,12 @@ Daily LeetCode solutions in Kotlin with clean code, optimized approaches, and co
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
