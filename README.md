@@ -11,6 +11,7 @@ Daily LeetCode solutions in Kotlin with clean code, optimized approaches, and co
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -36,4 +37,12 @@ Daily LeetCode solutions in Kotlin with clean code, optimized approaches, and co
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Math
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
