@@ -21,6 +21,7 @@ Daily LeetCode solutions in Kotlin with clean code, optimized approaches, and co
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0486-predict-the-winner](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,9 +41,22 @@ Daily LeetCode solutions in Kotlin with clean code, optimized approaches, and co
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
