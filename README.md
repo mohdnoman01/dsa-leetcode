@@ -41,6 +41,7 @@ Daily LeetCode solutions in Kotlin with clean code, optimized approaches, and co
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/mohdnoman01/dsa-leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdnoman01/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
